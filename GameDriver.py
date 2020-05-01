@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-GameDriver class CS331 - Programming Assignment 2
+GameDriver class for CS331 - Programming Assignment 2
 
 This file functions as the 'main' program for running the game
 
